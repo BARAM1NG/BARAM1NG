@@ -1,45 +1,34 @@
-# :wave: ᴡᴇʟᴄᴏᴍᴇ ᴀʜʀᴀᴍ_ʙᴀᴇ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ !
+# 👋 Welcome AHRAM_BAE GitHub Profile!
 
+I am a student at the School of Business at Kyung Hee University with an interest in `business data analysis` and `network science`.
 
-ɪ'ᴍ ᴀ ꜱᴛᴜᴅᴇɴᴛ ᴀᴛ ᴛʜᴇ ꜱᴄʜᴏᴏʟ ᴏꜰ ʙᴜꜱɪɴᴇꜱꜱ ᴀᴛ ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴇꜱᴛ ɪɴ ʙᴜꜱɪɴᴇꜱꜱ & ꜰɪɴᴀɴᴄɪᴀʟ ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ.
+## Activities
+- `2021.04.09 ~ 2021.12.31` Member of Support Dept of Student Council, KyungHee Univ SOM
+- `2021.04.01 ~ 2021.12.31` Member of Planning Dept of 희망탈출, KyungHee Univ SOM
+- `2022.04.08 ~ 2022.12.31` Secretary General of Student Council, KyungHee Univ SOM
+- `2022.01.01 ~ 2022.12.31` Member of Planning Dept of 희망탈출, KyungHee Univ SOM
+- `2022.05.16 ~ 2022.07.01` Korean Language Helper, Rice University
+- `2023.03.01 ~ 2023.12.22` Member of Planning Dept of Prometheus, Data Science & AI Club, Intercollegiate Club
+- `2024.01.15 ~ 2024.02.27` Naver BoostClass AI Engineer Basics
+- `2024.01 ~ 2024.05.27` Member of Planning Dept of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ (RecSys & Data Business Track)
+- `2024.07.12 ~ now` Member of BOAZ 23th, Data Analysis & Science Club, Intercollegiate Club (Visualization Track)
+- `2024.10.8 ~ now` Member of 쩝쩝 LAB, Restaurant Recommendation System Algorithm Development Lab, 모두의연구소 LAB
 
+## Career
+- `2023.06.26 ~ 2024.01.14` Risk Management Intern at Korbit, Cryptocurrency Exchange 
 
+## Tech Stack
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
+## Project
+- AI Presentation Practice Application: A project to develop a web application for practicing eye contact and speech pace during real interviews. I was responsible for developing the audio features and the frontend. ([GitHub Repository](https://github.com/use08174/SpeechPT))
+- Kyung Hee University Restaurant Recommendations: A project to calculate restaurant ratings on Kyung Hee University's Global Campus using an MLP (Multi-Layer Perceptron) and to develop an algorithm that recommends similar category restaurants. I was responsible for MLP modeling and visualizing the results using Streamlit. ([GitHub Repository](https://github.com/BARAM1NG/FoodRec))
+- Kyung Hee University Dormitory Roommate Recommendations: A project to collect data from Kyung Hee University's Everytime platform on roommate searches and develop an algorithm that recommends roommates based on similarity. I was responsible for developing the recommendation algorithm as well as both the frontend and backend. ([GitHub Repository](https://github.com/BARAM1NG/Demo_ChecKHUMate.git))
+- Wanted Job Postings and Trend Analysis: A project to develop a Chrome extension that collects information from the job recruitment site Wanted and visualizes the required skills based on job postings. I was responsible for developing the algorithm and the backend. ([GitHub Repository](https://github.com/BARAM1NG/DB_Job-Positing-Analysis))
+- Churn Prediction Project for a Telecom Company: A project to analyze which features have a significant impact on churn rate and identify which types of customers are more likely to leave the telecom service. ([GitHub Repository](https://github.com/BARAM1NG/Customer_Churn))
+- Database Construction Project: An e-commerce database construction and web development project. I connected the database to the web using MySQL and PHP. ([GitHub Repository](https://github.com/BARAM1NG/2024_Database))
+- Cheonan City Policy Proposal Project: A project to propose tenant farming policies to Cheonan City. I was responsible for creating the dashboard and organizing the data. ([Tableau Link](https://public.tableau.com/app/profile/.20206250/viz/__17245050240390/HOME))
 
-
-
-## ᴀᴄᴛɪᴠɪᴛɪᴇꜱ
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ꜱᴄʜᴏᴏʟ ᴏꜰ ʙᴜꜱɪɴᴇꜱꜱ, ʟᴇᴀᴘ ꜱᴜᴘᴘᴏʀᴛ ᴛᴇᴀᴍ ᴍᴇᴍʙᴇʀ (2021.04.09 ~ 2021.12.31)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ꜱᴄʜᴏᴏʟ ᴏꜰ ʙᴜꜱɪɴᴇꜱꜱ, ʜᴏᴘᴇꜱᴄᴀᴘᴇ ᴄʟᴜʙ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴍᴇᴍʙᴇʀ (2021.04.01 ~ 2021.12.31)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ꜱᴄʜᴏᴏʟ ᴏꜰ ʙᴜꜱɪɴᴇꜱꜱ, ʟɪɴᴋ ᴇxᴇᴄᴜᴛɪᴠᴇ ᴄᴏᴍᴍɪᴛᴛᴇᴇ (2022.04.08 ~ 2022.12.31)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ꜱᴄʜᴏᴏʟ ᴏꜰ ʙᴜꜱɪɴᴇꜱꜱ, ʜᴏᴘᴇꜱᴄᴀᴘᴇ ᴄʟᴜʙ ᴘʟᴀɴɴɪɴɢ ᴍᴇᴍʙᴇʀ (2022.01.01 ~ 2022.12.31)
-- ʀɪᴄᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ, ᴋᴏʀᴇᴀɴ ʟᴀɴɢᴜᴀɢᴇ ʜᴇʟᴘᴇʀ (2022.05.16 ~ 2022.07.01)
-- ᴘʀᴏᴍᴇᴛʜᴇᴜꜱ ᴀɪ, ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ᴍᴇᴍʙᴇʀ (2023.03.01 ~ 2023.12.22)
-- ʙᴅᴀ, ʙᴀꜱɪᴄ ᴅᴀᴛᴀ ᴀɴᴀʟʏꜱɪꜱ ᴄᴏᴜʀꜱᴇ (2023.07 ~ 2024.03)
-- ɴᴀᴠᴇʀ ʙᴏᴏꜱᴛᴄʟᴀꜱꜱ ᴀɪ ᴇɴɢɪɴᴇᴇʀ ʙᴀꜱɪᴄꜱ (2024.01.15 ~ 2024.02.27)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴅᴀᴛᴀ/ᴀɪ ᴄʟᴜʙ ᴋʜᴜᴅᴀ, ᴘʟᴀɴɴɪɴɢ ᴍᴇᴍʙᴇʀ (2024.01 ~ 2024.05.27)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴅᴀᴛᴀ/ᴀɪ ᴄʟᴜʙ ᴋʜᴜᴅᴀ, ʀᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴ ꜱʏꜱᴛᴇᴍꜱ ᴛʀᴀᴄᴋ ʟᴇᴀᴅᴇʀ (2024.01 ~ 2024.05.27)
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴅᴀᴛᴀ/ᴀɪ ᴄʟᴜʙ ᴋʜᴜᴅᴀ, ᴅᴀᴛᴀ ʙᴜꜱɪɴᴇꜱꜱ ᴛʀᴀᴄᴋ ᴍᴇᴍʙᴇʀ (2024.01 ~ 2024.05.27)
-- ʙᴏᴀᴢ, ᴠɪsᴜᴀʟɪᴢᴀᴛɪᴏɴ ᴛʀᴀᴄᴋ ᴍᴇᴍʙᴇʀ (2024.07.12 ~ ɴᴏᴡ)
-
-## ᴄᴀʀᴇᴇʀ
-- ʀɪꜱᴋ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ɪɴᴛᴇʀɴ ᴀᴛ ᴋᴏʀʙɪᴛ, ᴀ ᴄʀʏᴘᴛᴏᴄᴜʀʀᴇɴᴄʏ ᴇxᴄʜᴀɴɢᴇ (2023.06.26 ~ 2024.01.14)
-
-## ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
-
-## ᴘʀᴏᴊᴇᴄᴛ
-- ᴀɪ ᴘʀᴇꜱᴇɴᴛᴀᴛɪᴏɴ ᴘʀᴀᴄᴛɪᴄᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ʀᴇꜱᴛᴀᴜʀᴀɴᴛ ʀᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴꜱ
-- ᴋʏᴜɴɢ ʜᴇᴇ ᴜɴɪᴠᴇʀꜱɪᴛʏ ᴅᴏʀᴍɪᴛᴏʀʏ ʀᴏᴏᴍᴍᴀᴛᴇ ʀᴇᴄᴏᴍᴍᴇɴᴅᴀᴛɪᴏɴꜱ
-- ᴡᴀɴᴛᴇᴅ ᴊᴏʙ ᴘᴏꜱᴛɪɴɢꜱ ᴀɴᴅ ᴛʀᴇɴᴅ ᴀɴᴀʟʏꜱɪꜱ
-
-## ꜱᴛᴜᴅʏ ʟᴏɢ
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BARAM1NG&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BARAM1NG&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BARAM1NG&theme=github_dark)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBARAM1NG&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **BARAM1NG/BARAM1NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
