@@ -10,7 +10,7 @@ I am a student at the School of Business at Kyung Hee University with an interes
 - `2022.05.16 ~ 2022.07.01` Korean Language Helper, Rice University
 - `2023.03.01 ~ 2023.12.22` Member of Planning Dept of Prometheus, Data Science & AI Club, Intercollegiate Club
 - `2024.01.15 ~ 2024.02.27` Naver BoostClass AI Engineer Basics
-- `2024.01 ~ 2024.05.27` Member of Planning Dept of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ (RecSys & Data Business Track)
+- `2024.01.14 ~ 2024.05.27` Member of Planning Dept of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ (RecSys & Data Business Track)
 - `2024.07.12 ~ now` Member of BOAZ 23th, Data Analysis & Science Club, Intercollegiate Club (Visualization Track)
 - `2024.10.8 ~ now` Member of 쩝쩝 LAB, Restaurant Recommendation System Algorithm Development Lab, 모두의연구소 LAB
 
