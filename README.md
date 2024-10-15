@@ -1,24 +1,10 @@
 # 👋 Welcome AHRAM_BAE GitHub Profile!
 
-I am a student at the School of Business at Kyung Hee University with an interest in `business data analysis` and `network science`.
-
-## Activities
-- `2021.04.09 ~ 2021.12.31` Member of Support Dept of Student Council, KyungHee Univ SOM
-- `2021.04.01 ~ 2021.12.31` Member of Planning Dept of 희망탈출, KyungHee Univ SOM
-- `2022.04.08 ~ 2022.12.31` Secretary General of Student Council, KyungHee Univ SOM
-- `2022.01.01 ~ 2022.12.31` Member of Planning Dept of 희망탈출, KyungHee Univ SOM
-- `2022.05.16 ~ 2022.07.01` Korean Language Helper, Rice University
-- `2023.03.01 ~ 2023.12.22` Member of Planning Dept of Prometheus, Data Science & AI Club, Intercollegiate Club
-- `2024.01.15 ~ 2024.02.27` Naver BoostClass AI Engineer Basics
-- `2024.01.14 ~ 2024.05.27` Member of Planning Dept of KHUDA 5th, Data Analysis & AI Club, KyungHee Univ (RecSys & Data Business Track)
-- `2024.07.12 ~ now` Member of BOAZ 23th, Data Analysis & Science Club, Intercollegiate Club (Visualization Track)
-- `2024.10.8 ~ now` Member of 쩝쩝 LAB, Restaurant Recommendation System Algorithm Development Lab, 모두의연구소 LAB
-
-## Career
-- `2023.06.26 ~ 2024.01.14` Risk Management Intern at Korbit, Cryptocurrency Exchange 
+I'm a student at the School of Business at Kyung Hee University with an interest in **`Business Data Analysis`** and **`Network Science`**.
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
+
 
 ## Project
 - AI Presentation Practice Application: A project to develop a web application for practicing eye contact and speech pace during real interviews. I was responsible for developing the audio features and the frontend. ([GitHub Repository](https://github.com/use08174/SpeechPT))
