@@ -1,7 +1,5 @@
 👋 Hi there! I'm a student with an interest in **`Business Data Analysis`**
 
-I've been using Python for development.
-
 <!--
 **BARAM1NG/BARAM1NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
